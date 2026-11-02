@@ -24,14 +24,14 @@ A menu-driven console application to manage pharmacy stock and prevent the sale 
 
 ## How to Run
 ```bash
-g++ "Project(Pharmacy)_code.cpp" -o pharmacy
+g++ HCLProject.cpp" -o pharmacy
 ./pharmacy
 ```
 
 ## Files
-- `Project(Pharmacy)_code.cpp` – source code
+- `HCLProject.cpp` – source code
 - `HCLProject.report.docx` – project report
-- `HCL_ppt.pdf` – presentation slides
+- `HCL_ppt2.pdf` – presentation slides
 
 ## Files
 - HCL_project.cpp: source code
