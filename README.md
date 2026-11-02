@@ -23,8 +23,15 @@ A menu-driven console application to manage pharmacy stock and prevent the sale 
 - Compiler: g++
 
 ## How to Run
-g++ HCL_project.cpp -o pharmacy
+```bash
+g++ "Project(Pharmacy)_code.cpp" -o pharmacy
 ./pharmacy
+```
+
+## Files
+- `Project(Pharmacy)_code.cpp` – source code
+- `HCLProject.report.docx` – project report
+- `HCL_ppt.pdf` – presentation slides
 
 ## Files
 - HCL_project.cpp: source code
@@ -32,7 +39,6 @@ g++ HCL_project.cpp -o pharmacy
 - PPT: presentation slides
 
 ## Team
-
 | Tanishka Shinde | 1055 |
 | Samiksha Gondkar | 1015 | 
 | Vibha Chandane | 1003 | 
